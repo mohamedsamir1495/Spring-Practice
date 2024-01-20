@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jpa/Basic CRUD/Basic CRUD.iml" filepath="$PROJECT_DIR$/jpa/Basic CRUD/Basic CRUD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpa/Caching/Caching.iml" filepath="$PROJECT_DIR$/jpa/Caching/Caching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/full projects/Clinical App/Clinical App.iml" filepath="$PROJECT_DIR$/full projects/Clinical App/Clinical App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpa/Component Mapping/Component Mapping.iml" filepath="$PROJECT_DIR$/jpa/Component Mapping/Component Mapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpa/Composite Key/Composite Key.iml" filepath="$PROJECT_DIR$/jpa/Composite Key/Composite Key.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpa/Entity Inheritance/Entity Inheritance.iml" filepath="$PROJECT_DIR$/jpa/Entity Inheritance/Entity Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpa/Id Generators/Id Generators.iml" filepath="$PROJECT_DIR$/jpa/Id Generators/Id Generators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpa/Mongo Demo/Mongo Demo.iml" filepath="$PROJECT_DIR$/jpa/Mongo Demo/Mongo Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpa/Multiple Data Sources/Multiple Data Sources.iml" filepath="$PROJECT_DIR$/jpa/Multiple Data Sources/Multiple Data Sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpa/Native Query/Native Query.iml" filepath="$PROJECT_DIR$/jpa/Native Query/Native Query.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpa/Relations/Relations.iml" filepath="$PROJECT_DIR$/jpa/Relations/Relations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpa/Stored Procedure/Stored Procedure.iml" filepath="$PROJECT_DIR$/jpa/Stored Procedure/Stored Procedure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpa/Transaction Management/Transaction Management.iml" filepath="$PROJECT_DIR$/jpa/Transaction Management/Transaction Management.iml" />
+    </modules>
+  </component>
+</project>

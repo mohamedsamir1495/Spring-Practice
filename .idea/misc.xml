@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/jpa/idgenerators/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa/productdata/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa/JPA Finders and Pagination Project/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa/JPA Finders and Pagination/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa/Caching/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa/transaction management/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa/filedata/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa/Stored Procedure/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa/Mongo Demo/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa/Composite Key/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa/Clinical Application/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa/Finders and Pagination/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa/Multiple Data Sources/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa/Dating App/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa/Component Mapping/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa/Entity Inheritance/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa/Id Generators/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa/Relations/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa/Basic CRUD/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa/Native Query/pom.xml" />
+        <option value="$PROJECT_DIR$/full projects/Clinical App/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" project-jdk-name="21" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

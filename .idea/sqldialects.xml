@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/jpa/Component Mapping/src/main/resources/sql/employee.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/jpa/Entity Inheritance/src/main/resources/sql/tablepersubclass.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/jpa/Multiple Data Sources/src/main/resources/sql/tables.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/jpa/Transaction Management/src/main/resources/sql/bankaccount-TransactionManagement.sql" dialect="MySQL" />
+  </component>
+</project>

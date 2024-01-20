@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/full projects/Clinical App/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpa/Basic CRUD/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpa/Caching/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpa/Clinical Application/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpa/Component Mapping/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpa/Composite Key/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpa/Dating App/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpa/Entity Inheritance/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpa/Finders and Pagination/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpa/Id Generators/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpa/JPA Finders and Pagination Project/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpa/JPA Finders and Pagination/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpa/Mongo Demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpa/Multiple Data Sources/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpa/Native Query/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpa/Relations/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpa/Stored Procedure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpa/Transaction Management/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpa/associations/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpa/filedata/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpa/idgenerators/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpa/productdata/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpa/productdata/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

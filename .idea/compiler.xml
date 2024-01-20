@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="associations" />
+        <module name="composite_key" />
+        <module name="Id Generators" />
+        <module name="Component Mapping" />
+        <module name="entity_inheritance" />
+        <module name="jpa_finders_pagination" />
+        <module name="basic_crud" />
+        <module name="Basic CRUD" />
+        <module name="component_mapping" />
+        <module name="native_query" />
+        <module name="Composite Key" />
+        <module name="Finders_and_Pagination" />
+        <module name="Stored Procedure" />
+        <module name="Relations" />
+        <module name="stored_procedure" />
+        <module name="dating_app" />
+        <module name="patient_scheduling" />
+        <module name="idgenerators" />
+        <module name="Caching" />
+        <module name="Native Query" />
+        <module name="Entity Inheritance" />
+        <module name="Multiple Data Sources" />
+        <module name="Transaction Management" />
+        <module name="Mongo Demo" />
+        <module name="clinical_application" />
+        <module name="multiple_data_sources" />
+      </profile>
+      <profile name="Annotation profile for Clinical Application" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.30/lombok-1.18.30.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct-processor/1.5.5.Final/mapstruct-processor-1.5.5.Final.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct/1.5.5.Final/mapstruct-1.5.5.Final.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok-mapstruct-binding/0.2.0/lombok-mapstruct-binding-0.2.0.jar" />
+        </processorPath>
+        <module name="Clinical App" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="associations" target="1.5" />
+      <module name="Basic CRUD" target="19" />
+      <module name="basic_crud" target="1.5" />
+      <module name="Caching" target="1.8" />
+      <module name="Clinical App" target="19" />
+      <module name="Clinical Application" target="19" />
+      <module name="clinical_application" target="1.5" />
+      <module name="Component Mapping" target="19" />
+      <module name="component_mapping" target="1.5" />
+      <module name="Composite Key" target="19" />
+      <module name="Dating App" target="19" />
+      <module name="dating_app" target="1.5" />
+      <module name="Entity Inheritance" target="19" />
+      <module name="entity_inheritance" target="1.5" />
+      <module name="filedata" target="19" />
+      <module name="Finders and Pagination" target="19" />
+      <module name="Finders_and_Pagination" target="1.5" />
+      <module name="Id Generators" target="19" />
+      <module name="idgenerators" target="1.5" />
+      <module name="Mongo Demo" target="19" />
+      <module name="Multiple Data Sources" target="19" />
+      <module name="multiple_data_sources" target="1.5" />
+      <module name="Native Query" target="19" />
+      <module name="native_query" target="1.5" />
+      <module name="Patient Scheduling" target="19" />
+      <module name="Relations" target="19" />
+      <module name="Stored Procedure" target="19" />
+      <module name="transaction management" target="19" />
+      <module name="Transaction Management" target="19" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Basic CRUD" options="-parameters" />
+      <module name="Caching" options="-parameters" />
+      <module name="Clinical App" options="-parameters" />
+      <module name="Clinical Application" options="-parameters" />
+      <module name="Component Mapping" options="-parameters" />
+      <module name="Composite Key" options="-parameters" />
+      <module name="Dating App" options="-parameters" />
+      <module name="Entity Inheritance" options="-parameters" />
+      <module name="Finders and Pagination" options="-parameters" />
+      <module name="Finders_and_Pagination" options="" />
+      <module name="Id Generators" options="-parameters" />
+      <module name="Mongo Demo" options="-parameters" />
+      <module name="Multiple Data Sources" options="-parameters" />
+      <module name="Native Query" options="-parameters" />
+      <module name="Patient Scheduling" options="-parameters" />
+      <module name="Relations" options="-parameters" />
+      <module name="Stored Procedure" options="-parameters" />
+      <module name="Transaction Management" options="-parameters" />
+      <module name="associations" options="" />
+      <module name="filedata" options="-parameters" />
+      <module name="idgenerators" options="" />
+      <module name="transaction management" options="-parameters" />
+    </option>
+  </component>
+</project>

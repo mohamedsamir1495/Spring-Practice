@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="efce9e9e-5626-4f40-ab44-dc55b32b5cc0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/jpa/Native Query/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jpa/Native Query/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jpa/Native Query/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jpa/Native Query/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jpa/Native Query/src/main/java/com/mohamedsamir1495/springdata/nativequery/NativeQuerylApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jpa/Native Query/src/main/java/com/mohamedsamir1495/springdata/nativequery/entities/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jpa/Native Query/src/main/java/com/mohamedsamir1495/springdata/nativequery/repos/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jpa/Native Query/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jpa/Native Query/src/test/java/com/mohamedsamir1495/springdata/nativequery/NativeQueryApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodyActiveAccount">
+    <option name="activeAccountId" value="fb330970-0423-4d69-989f-3cec3733be29" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="COMPILER_PROCESS_ADDITIONAL_VM_OPTIONS" value="-Djps.track.ap.dependencies=false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+    <option name="isSearchInLibrariesForStructure" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="PerforceDirect.Settings">
+    <option name="ENABLED" value="false" />
+  </component>
+  <component name="ProjectId" id="2ZryfaO5znspfJ67aJEngbKbEiP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.CodyProjectSettingsMigration": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Technical Study/Spring Practice/full projects/Clinical App",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.28866714",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
+    "spring.configuration.checksum": "e69b14fb4ed4f75d9ae404a236f6a639"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql",
+      "mongo"
+    ],
+    "com.intellij.ide.scratch.LRUPopupBuilder$1/SQL Dialect": [
+      "MySQL"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Technical Study\Spring Practice\jpa\Clinical Application\src\main\java\com\mohamedsamir1495\springdata\clinicals\dto" />
+      <recent name="D:\Technical Study\Spring Practice\jpa\Composite Key\src\main\java\com\mohamedsamir1495\springdata\customer\second_approach" />
+      <recent name="D:\Technical Study\Spring Practice\src\main\java\com\mohamedsamir1495\spring_practice\unit\lesson_one_basic_crud" />
+      <recent name="D:\Technical Study\Spring Practice\src\main\java\com\mohamedsamir1495\spring_practice\lessons\lesson_two_entity_relations" />
+      <recent name="D:\Technical Study\Spring Practice\src\test\java\com\mohamedsamir1495\spring_practice" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Technical Study\Spring Practice\jpa\filedata\src\test\resources" />
+      <recent name="D:\Technical Study\Spring Practice\src\test\java\com\mohamedsamir1495\spring_practice\unit\basic_jpa_crud" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.mohamedsamir1495.spring_practice.lessons.lesson_one_basic_crud" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mohamedsamir1495.springdata.customer.first_approach" />
+      <recent name="com.mohamedsamir1495.springdata.customer.entities" />
+      <recent name="com.mohamedsamir1495.spring_practice.lessons.lesson_one_basic_crud.dto" />
+      <recent name="com.mohamedsamir1495.spring_practice.lessons.lesson_one_basic_crud.utils" />
+      <recent name="com.mohamedsamir1495.spring_practice.lessons.lesson_one_basic_crud.repository" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.EntityInheritanceApplicationTests">
+    <configuration name="employee.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/jpa/Component Mapping/src/main/resources/sql/employee.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="tablepersubclass.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/jpa/Entity Inheritance/src/main/resources/sql/tablepersubclass.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="ComponentmappingApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Component Mapping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mohamedsamir1495.springdata.componentmapping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mohamedsamir1495.springdata.componentmapping" />
+      <option name="MAIN_CLASS_NAME" value="com.mohamedsamir1495.springdata.componentmapping.ComponentmappingApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComponentmappingApplicationTests.testCreate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Component Mapping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mohamedsamir1495.springdata.componentmapping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mohamedsamir1495.springdata.componentmapping" />
+      <option name="MAIN_CLASS_NAME" value="com.mohamedsamir1495.springdata.componentmapping.ComponentmappingApplicationTests" />
+      <option name="METHOD_NAME" value="testCreate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EntityInheritanceApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Entity Inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mohamedsamir1495.springdata.entityinheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mohamedsamir1495.springdata.entityinheritance" />
+      <option name="MAIN_CLASS_NAME" value="com.mohamedsamir1495.springdata.entityinheritance.EntityInheritanceApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Spring Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Spring Practice" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssociationsApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Relations" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mohamedsamir1495.springdata.relations.RelationsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssociationsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Relations" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mohamedsamir1495.springdata.relations.RelationsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClinicalApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Clinical App" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mohamedsamir1495.springdata.clinicals.ClinicalApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComponentmappingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Component Mapping" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bharath.springdata.componentmapping.ComponentmappingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerdataApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Composite Key" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mohamedsamir1495.springdata.clinicals.CustomerdataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerdataApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Basic CRUD" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bharath.springdata.customer.CustomerdataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerdataApplication (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Basic CRUD" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mohamedsamir1495.springdata.basiccrud.CustomerdataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerdataApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Composite Key" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bharath.springdata.customer.CustomerdataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatingapiApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Dating App" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mohamedsamir1495.dating.DatingapiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatingapiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Dating App" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bharath.dating.DatingapiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FiledataApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="filedata" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mohamedsamir1495.springdata.files.FiledataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FiledataApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="filedata" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bharath.springdata.files.FiledataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HibernateinheritanceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Entity Inheritance" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bharath.springdata.hibernateinheritance.HibernateinheritanceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IdgeneratorsApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="idgenerators" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mohamedsamir1495.springdata.idgenerators.IdgeneratorsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IdgeneratorsApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Id Generators" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mohamedsamir1495.springdata.idgenerators.IdgeneratorsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IdgeneratorsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="idgenerators" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bharath.springdata.idgenerators.IdgeneratorsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JpqlandnativesqlApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Native Query" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bharath.springdata.jpqlandnativesql.JpqlandnativesqlApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultipledatasourcesApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Multiple Data Sources" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mohamedsamir1495.springdatajpa.MultipledatasourcesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultipledatasourcesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Multiple Data Sources" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bharath.springdatajpa.MultipledatasourcesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PatientschedulingApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Patient Scheduling" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mohamedsamir1495.springdata.patientscheduling.PatientschedulingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PatientschedulingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Patient Scheduling" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bharath.springdata.patientscheduling.PatientschedulingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductdataApplication (10)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Mongo Demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mohamedsamir1495.springdata.product.ProductdataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductdataApplication (11)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Finders_and_Pagination" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mohamedsamir1495.springdata.product.ProductdataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductdataApplication (12)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Basic CRUD" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mohamedsamir1495.springdata.product.ProductdataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductdataApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="JPA Finders and Pagination" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mohamedsamir1495.springdata.product.ProductdataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductdataApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jpa_finders_pagination" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mohamedsamir1495.springdata.product.ProductdataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductdataApplication (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="finders and pagination" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mohamedsamir1495.springdata.product.ProductdataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductdataApplication (4)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="caching" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mohamedsamir1495.springdata.product.ProductdataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductdataApplication (5)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="finders_pagination" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mohamedsamir1495.springdata.product.ProductdataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductdataApplication (6)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Finders and Pagination" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mohamedsamir1495.springdata.product.ProductdataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductdataApplication (7)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Caching" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mohamedsamir1495.springdata.product.ProductdataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductdataApplication (8)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Finders and Pagination" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mohamedsamir1495.springdata.product.ProductdataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductdataApplication (9)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Stored Procedure" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mohamedsamir1495.springdata.product.ProductdataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductdataApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="JPA Finders and Pagination" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bharath.springdata.product.ProductdataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringPracticeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Spring Practice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mohamedsamir1495.spring_practice.SpringPracticeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransactionmanagementApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Transaction Management" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mohamedsamir1495.springdata.transactionmanagement.TransactionmanagementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransactionmanagementApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Transaction Management" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mohamedsamir1495.springdata.transactionmanagement.TransactionmanagementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransactionmanagementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Transaction Management" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bharath.springdata.transactionmanagement.TransactionmanagementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Database Script.employee.sql" />
+      <item itemvalue="Database Script.tablepersubclass.sql" />
+      <item itemvalue="JUnit.ComponentmappingApplicationTests" />
+      <item itemvalue="JUnit.ComponentmappingApplicationTests.testCreate" />
+      <item itemvalue="JUnit.EntityInheritanceApplicationTests" />
+      <item itemvalue="Spring Boot.ProductdataApplication (12)" />
+      <item itemvalue="Spring Boot.AssociationsApplication (1)" />
+      <item itemvalue="Spring Boot.ClinicalApplication (1)" />
+      <item itemvalue="Spring Boot.CustomerdataApplication (2)" />
+      <item itemvalue="Spring Boot.CustomerdataApplication (3)" />
+      <item itemvalue="Spring Boot.IdgeneratorsApplication (2)" />
+      <item itemvalue="Spring Boot.JpqlandnativesqlApplication" />
+      <item itemvalue="Spring Boot.TransactionmanagementApplication (2)" />
+      <item itemvalue="Spring Boot.ComponentmappingApplication" />
+      <item itemvalue="Spring Boot.HibernateinheritanceApplication" />
+      <item itemvalue="Spring Boot.DatingapiApplication" />
+      <item itemvalue="Spring Boot.DatingapiApplication (1)" />
+      <item itemvalue="Spring Boot.MultipledatasourcesApplication (1)" />
+      <item itemvalue="Spring Boot.MultipledatasourcesApplication" />
+      <item itemvalue="Spring Boot.ProductdataApplication (11)" />
+      <item itemvalue="Spring Boot.CustomerdataApplication (1)" />
+      <item itemvalue="Spring Boot.FiledataApplication (1)" />
+      <item itemvalue="Spring Boot.PatientschedulingApplication (1)" />
+      <item itemvalue="Spring Boot.AssociationsApplication" />
+      <item itemvalue="Spring Boot.CustomerdataApplication" />
+      <item itemvalue="Spring Boot.FiledataApplication" />
+      <item itemvalue="Spring Boot.IdgeneratorsApplication" />
+      <item itemvalue="Spring Boot.IdgeneratorsApplication (1)" />
+      <item itemvalue="Spring Boot.PatientschedulingApplication" />
+      <item itemvalue="Spring Boot.ProductdataApplication" />
+      <item itemvalue="Spring Boot.ProductdataApplication (1)" />
+      <item itemvalue="Spring Boot.ProductdataApplication (2)" />
+      <item itemvalue="Spring Boot.ProductdataApplication (3)" />
+      <item itemvalue="Spring Boot.ProductdataApplication (4)" />
+      <item itemvalue="Spring Boot.ProductdataApplication (5)" />
+      <item itemvalue="Spring Boot.ProductdataApplication (6)" />
+      <item itemvalue="Spring Boot.ProductdataApplication (7)" />
+      <item itemvalue="Spring Boot.ProductdataApplication (8)" />
+      <item itemvalue="Spring Boot.ProductdataApplication (9)" />
+      <item itemvalue="Spring Boot.ProductdataApplication (10)" />
+      <item itemvalue="Spring Boot.SpringPracticeApplication" />
+      <item itemvalue="Spring Boot.TransactionmanagementApplication" />
+      <item itemvalue="Spring Boot.TransactionmanagementApplication (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EntityInheritanceApplicationTests" />
+        <item itemvalue="Database Script.tablepersubclass.sql" />
+        <item itemvalue="JUnit.ComponentmappingApplicationTests" />
+        <item itemvalue="JUnit.ComponentmappingApplicationTests.testCreate" />
+        <item itemvalue="Database Script.employee.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efce9e9e-5626-4f40-ab44-dc55b32b5cc0" name="Changes" comment="" />
+      <created>1703194599184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703194599184</updated>
+      <workItem from="1703194605059" duration="1650000" />
+      <workItem from="1703197589153" duration="2434000" />
+      <workItem from="1703254637867" duration="5495000" />
+      <workItem from="1703330743163" duration="738000" />
+      <workItem from="1703346950663" duration="689000" />
+      <workItem from="1703347662172" duration="3558000" />
+      <workItem from="1703883768668" duration="1461000" />
+      <workItem from="1703965429085" duration="3577000" />
+      <workItem from="1703975981634" duration="3981000" />
+      <workItem from="1703979987442" duration="802000" />
+      <workItem from="1704061104684" duration="1857000" />
+      <workItem from="1704145575394" duration="8816000" />
+      <workItem from="1704233804734" duration="2504000" />
+      <workItem from="1704306334577" duration="2570000" />
+      <workItem from="1704390925281" duration="4645000" />
+      <workItem from="1704434209698" duration="6374000" />
+      <workItem from="1704544133870" duration="2846000" />
+      <workItem from="1704576846424" duration="1256000" />
+      <workItem from="1704578116243" duration="302000" />
+      <workItem from="1704578437526" duration="329000" />
+      <workItem from="1704578791158" duration="13005000" />
+      <workItem from="1704620419702" duration="5273000" />
+      <workItem from="1704735338135" duration="2112000" />
+      <workItem from="1704778926763" duration="6233000" />
+      <workItem from="1704792913015" duration="10566000" />
+      <workItem from="1704817135211" duration="767000" />
+      <workItem from="1704987290453" duration="881000" />
+      <workItem from="1705082658807" duration="3959000" />
+      <workItem from="1705091751921" duration="2584000" />
+      <workItem from="1705182139505" duration="541000" />
+      <workItem from="1705249333960" duration="1372000" />
+      <workItem from="1705493592936" duration="682000" />
+      <workItem from="1705586548166" duration="615000" />
+      <workItem from="1705593611158" duration="2774000" />
+      <workItem from="1705681061712" duration="1414000" />
+      <workItem from="1705695281303" duration="2590000" />
+      <workItem from="1705697978751" duration="7403000" />
+      <workItem from="1705745167304" duration="2435000" />
+      <workItem from="1705748154001" duration="5312000" />
+      <workItem from="1705770010409" duration="307000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/mohamedsamir1495/spring_practice/jpa/basic_jpa_crud/StudentRepoTests.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jpa/Transaction Management/src/main/java/com/mohamedsamir1495/springdata/transactionmanagement/services/BankAccountServiceImpl.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jpa/Mongo Demo/src/test/java/com/mohamedsamir1495/springdata/product/ProductdataApplicationTests.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jpa/Clinical Application/src/main/java/com/mohamedsamir1495/springdata/clinicals/controllers/PatientController.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jpa/Clinical Application/src/main/java/com/mohamedsamir1495/springdata/clinicals/entities/Patient.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jpa/Clinical Application/src/main/java/com/mohamedsamir1495/springdata/clinicals/controllers/PatientController.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jpa/Dating App/src/main/java/com/mohamedsamir1495/dating/DatingapiApplication.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
